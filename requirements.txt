@@ -1,0 +1,8 @@
+opencv-python
+numpy
+mss
+pytesseract
+scikit-learn
+joblib
+pandas
+rich
